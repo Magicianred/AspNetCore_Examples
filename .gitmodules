@@ -1,0 +1,3 @@
+[submodule "razorpages-simple-app"]
+	path = razorpages-simple-app
+	url = https://github.com/Magicianred/razorpages-simple-app.git
